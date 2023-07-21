@@ -87,7 +87,8 @@ header{
     position: relative;
     width: 400px;
     height: 440px;
-    background: transparent;
+    /* background: transparent; */
+    background: rgba(54, 25, 25, .00004);;
     border: 2px solid rgba(255, 255, 255, .5);
     border-radius: 20px;
     backdrop-filter: blur(20px);
